@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannun1510&layout=compact&theme=dark&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannun1510&layout=compact&theme=dark&show_icons=true)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nannun1510&theme=dark&show_icons=true)
