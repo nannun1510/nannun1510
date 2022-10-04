@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannun1510&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nannun1510&layout=compact&theme=dark&show_icons=true)
 
 <!--
